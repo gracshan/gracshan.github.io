@@ -149,7 +149,7 @@ nav i {
 /* main */
 
 main {
-  background: #b4dfe5a4 repeat;
+  background: #84a8c26e repeat;
   padding-left: 190px;
 }
 
@@ -246,7 +246,7 @@ h3 {
 }
 
 #intro.section {
-  background: #345383;
+  background: #333A56;
   position: relative;
 }
 
@@ -470,7 +470,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #f4976cdc!important;
+  background-color: #52658F!important;
 }
 
 @media (min-width: 1200px) {
